@@ -33,7 +33,6 @@ int main(int argc, char *argv[]) {
                 count++;
             }
         }
-
         printf("%s: %d\n", argv[i], count);
     }
     return 0;
